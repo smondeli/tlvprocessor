@@ -12,5 +12,7 @@ Change input type:
 1. Modify main() in Main class to read data from input type.
 
 Steps to run jar:
+
 java -jar tlvprocessor.jar < input
+
 Note: The input is still from STDIN.
